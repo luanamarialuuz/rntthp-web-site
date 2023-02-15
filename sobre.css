@@ -154,7 +154,7 @@ background-color: #c81b189a;
 /* Filiadas*/
 
 .principal2{
-	background: linear-gradient(72deg, #e8241d 35%, #e4a2a1, #d11512 99%);
+	background: linear-gradient(72deg, #e8241d 35%, #e8241d, #e8241d 99%);
 	display: 100%;
 	height: 100vh;
 	display: flex;
@@ -209,7 +209,15 @@ margin: 50px;
 .links{
     color: #3f729b;
     text-decoration: none;
-} 
+}
+.footer {
+    background-color: #C81B18;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+    height: 10vh;
+	color: #FFF;
+}
 
 	
 
