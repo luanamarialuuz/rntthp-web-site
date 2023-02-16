@@ -10,6 +10,14 @@
 	text-decoration: none;
 }
 
+@media (max-width: 568px) {
+	html{
+		font-size: 50%;
+	}
+	
+}
+ 
+
 body {
 	font-family: montserrat;
 }
@@ -204,6 +212,14 @@ input {
 	margin-left: -80%;
 }
 
+@media screen and (max-width: 768){
+	.content, slides{
+		width: 100%;
+	}
+}
+
+
+
 /*Historia*/
 
 .historia {
@@ -320,6 +336,7 @@ input {
 	.blog-section .section-content .cards{
 		
 		grid-template-columns: repeat(2, 1fr);
+		
 		
 	}
 }
