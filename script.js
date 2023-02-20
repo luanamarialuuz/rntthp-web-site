@@ -8,3 +8,4 @@ setInterval( function(){
         contador = 1;
     }
 }, 3000 );
+
