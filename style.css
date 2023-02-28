@@ -10,15 +10,6 @@
 	text-decoration: none;
 }
 
-@media (max-width: 568px) {
-	html {
-		font-size: 50%;
-	}
-
-}
-
-
-
 body {
 	font-family: montserrat;
 }
@@ -334,7 +325,7 @@ input {
 }
 
 .blog-section .section-content .cards .card .article h4 {
-	font-size: 24px;
+	font-size: 20px;
 	color: #D6ADD4;
 }
 
